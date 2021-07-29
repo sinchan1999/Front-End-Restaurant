@@ -18,8 +18,29 @@ const Menu = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
+
   {
     id: 3,
+    image: "../images/strawberrydelight.jpg",
+    name: "Strawberry Delight",
+    category: "breakfast",
+    price: "50₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+
+  {
+    id: 4,
+    image: "../images/paubhaji.jpg",
+    name: "Paubhaji",
+    category: "INDIAN",
+    price: "50₹",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+  },
+
+  {
+    id: 5,
     image: "../images/chola.jpg",
     name: "Masala Chole",
     category: "INDIAN",
@@ -29,7 +50,7 @@ const Menu = [
   },
 
   {
-    id: 4,
+    id: 6,
     image: "../images/dosa.jpg",
     name: "Dosa(South-Indian)",
     category: "INDIAN",
@@ -38,7 +59,7 @@ const Menu = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
-    id: 5,
+    id: 7,
     image: "../images/butternun.jpg",
     name: "Butter Nun",
     category: "INDIAN",
@@ -47,7 +68,7 @@ const Menu = [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
-    id: 6,
+    id: 8,
     image: "../images/rajmarice.jpg",
     name: "Rajma Rice",
     category: "INDIAN",
@@ -57,7 +78,7 @@ const Menu = [
   },
 
   {
-    id: 7,
+    id: 9,
     image: "../images/sweetcorn.jpg",
     name: "Sweet Corn",
     category: "INDIAN",
@@ -67,7 +88,7 @@ const Menu = [
   },
 
   {
-    id: 8,
+    id: 10,
     image: "../images/fish.jpg",
     name: "Fish",
     category: "INDIAN",
@@ -77,7 +98,7 @@ const Menu = [
   },
 
   {
-    id: 8,
+    id: 11,
     image: "../images/momo.jpg",
     name: "MOMO",
     category: "INDIAN",
@@ -87,7 +108,7 @@ const Menu = [
   },
 
   {
-    id: 7,
+    id: 12,
     image: "../images/pasta.jpg",
     name: "pasta",
     category: "Fast Food",
@@ -97,7 +118,7 @@ const Menu = [
   },
 
   {
-    id: 8,
+    id: 13,
     image: "../images/pizza.jpg",
     name: "pizza",
     category: "Fast Food",
@@ -107,7 +128,7 @@ const Menu = [
   },
 
   {
-    id: 9,
+    id: 14,
     image: "../images/burgar.jpg",
     name: "Burgar",
     category: "Fast Food",
@@ -117,7 +138,7 @@ const Menu = [
   },
 
   {
-    id: 10,
+    id: 15,
     image: "../images/Noodles.jpg",
     name: "Noodles",
     category: "Fast Food",
